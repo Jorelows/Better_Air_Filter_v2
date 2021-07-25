@@ -1,0 +1,13 @@
+using System.Reflection;
+using System.Runtime.InteropServices;
+[assembly: AssemblyTitle("better_air_filters")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("better_air_filters")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+[assembly: ComVisible(false)]
+[assembly: Guid("2FBCA6C3-941C-4326-A440-F1C3C4E585BF")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]
